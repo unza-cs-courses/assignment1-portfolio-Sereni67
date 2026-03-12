@@ -127,9 +127,11 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Sereni Banda
+**Student ID:** 2022011155
+**Design Theme:** My portfolio uses a clean, modern, and minimal developer-style design. The goal of the design is to present my projects, skills, and background in a clear and professional way that would appeal to potential employers or clients. I chose a blue and white color scheme because blue is commonly associated with technology, reliability, and professionalism. The layout is simple and organized so that visitors can easily navigate between sections such as About, Projects, and Contact.
+
+The design also focuses on usability and readability, with clear typography and good spacing between elements. I used Flexbox and CSS Grid to create structured layouts for the navigation menu and project cards. The website follows a mobile-first responsive design approach, ensuring that it works well on mobile phones, tablets, and desktop screens
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,10 +141,21 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+One of the main challenges I faced was making the layout responsive across different screen sizes. Initially, some elements such as project cards and navigation links did not display properly on smaller screens. I solved this by using CSS Grid and Flexbox, along with media queries, to adjust the layout depending on the screen width.
+
+Another challenge was organizing the CSS using variables and reusable styles. At first it was difficult to maintain consistent colors and spacing throughout the site. To solve this, I used CSS custom properties (variables) to define the color palette, spacing, and typography. This made the design more consistent and easier to maintain.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+The following resources were used during the development of this portfolio:
+
+Font: System fonts (Segoe UI, Roboto, Arial)
+
+Icons: Font Awesome Icons (https://fontawesome.com
+)
+
+Images: Project screenshots created by the developer (personal projects)
+
+Development Tools: Visual Studio Code and Google Chrome Developer Tools
 
 ---
 
